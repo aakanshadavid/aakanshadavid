@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aakansha. 👀 I’m interested in Gen AI and development.
+👋 Hi, I’m Aakansha. 👀 I’m interested in Gen AI and development.
 
 <!---
 aakanshadavid/aakanshadavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
